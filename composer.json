@@ -1,0 +1,12 @@
+{
+  "name": "b-khouy/shortcode",
+  "description": "Provides ShortCodes filter framework and API (like WP ShortCodes)",
+  "type": "drupal-module",
+  "homepage": "https://www.drupal.org/project/shortcode",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/shortcode",
+    "source": "https://cgit.drupalcode.org/shortcode"
+  },
+  "minimum-stability": "dev",
+  "require": {}
+}
